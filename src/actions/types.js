@@ -1,0 +1,7 @@
+export const FETCH_POSTS = 'FETCH_POSTS';
+
+export const NEW_POST = 'NEW_POST';
+
+export const INCREMENT_COUNTER = 'INCREMENT_COUNTER';
+
+export const DECREMENT_COUNTER = 'DECREMENT_COUNTER';
